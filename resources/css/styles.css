@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    font-family: Helvetica;
+    background-color: azure;
+}
+
+.table {
+    margin: auto;
+    text-align: center;
+}
+
+thead {
+    background-color: blue;
+    color: white;
+}
+
+table {
+    width: 50%;
+    margin: auto;
+}
+
+table, tr {
+    border: 2px solid blue;
+    border-radius: 5px;
+}
+
+tr:hover {
+    background-color: coral;
+}
+
+th {
+    
+}
+
+td {
+    text-align: justify;
+    vertical-align: center;
+    padding: 5px;
+}
